@@ -8,6 +8,6 @@ ___
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
-| 1 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> | [Python 3]()
+| 1 | 7568 | [덩치](https://www.acmicpc.net/problem/7568) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code//Python/bj7568.py)
 </details>
 </details>
