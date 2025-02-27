@@ -4,17 +4,17 @@ ___
  <details - open> 
  <summary><b>Unranked - 7 문제 </b></summary>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> 7 문제</b></summary>
-
+<summary><b><img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> 7 문제</b></summary>
+ 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
-| 1 | 16481 | [원 전문가 진우](https://www.acmicpc.net/problem/16481) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj16481.cpp)
-| 2 | 10949 | [숫자 야구 5](https://www.acmicpc.net/problem/10949) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj10949.cpp)
-| 3 | 27903 | [인생](https://www.acmicpc.net/problem/27903) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj27903.cpp)
-| 4 | 17295 | [엔드게임 스포일러](https://www.acmicpc.net/problem/17295) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj17295.cpp)
-| 5 | 2556 | [별 찍기 - 14](https://www.acmicpc.net/problem/2556) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj2556.cpp)
-| 6 | 15802 | [타노스](https://www.acmicpc.net/problem/15802) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj15802.cpp)
-| 7 | 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | <img src="https://static.solved.ac/tier_small/-1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj1237.cpp)
+| 1 | 16481 | [원 전문가 진우](https://www.acmicpc.net/problem/16481) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj16481.cpp)
+| 2 | 10949 | [숫자 야구 5](https://www.acmicpc.net/problem/10949) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj10949.cpp)
+| 3 | 27903 | [인생](https://www.acmicpc.net/problem/27903) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj27903.cpp)
+| 4 | 17295 | [엔드게임 스포일러](https://www.acmicpc.net/problem/17295) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj17295.cpp)
+| 5 | 2556 | [별 찍기 - 14](https://www.acmicpc.net/problem/2556) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj2556.cpp)
+| 6 | 15802 | [타노스](https://www.acmicpc.net/problem/15802) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj15802.cpp)
+| 7 | 1237 | [정ㅋ벅ㅋ](https://www.acmicpc.net/problem/1237) | <img src="https://static.solved.ac/tier_small/nr.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code//C++/bj1237.cpp)
 </details>
 </details>
 
