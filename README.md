@@ -280,7 +280,7 @@ ___
 | 28 | 5972 | [택배 배송](https://www.acmicpc.net/problem/5972) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj5972.cpp)
 | 29 | 1584 | [게임](https://www.acmicpc.net/problem/1584) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1584.cpp)
 | 30 | 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1916.cpp)
-| 31 | 1759 | [암호만들기](https://www.acmicpc.net/problem/1759) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1759.py)
+| 31 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj1759.py)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> 36 문제</b></summary>
