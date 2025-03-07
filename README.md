@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 343문제
+## 📚 푼 문제 목록 - 344문제
 
 ___
  <details - open> 
@@ -267,9 +267,9 @@ ___
 
 ___
  <details - open> 
- <summary><b>Gold - 137 문제 </b></summary>
+ <summary><b>Gold - 138 문제 </b></summary>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> 31 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> 32 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -304,6 +304,7 @@ ___
 | 29 | 5972 | [택배 배송](https://www.acmicpc.net/problem/5972) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj5972.cpp)
 | 30 | 1584 | [게임](https://www.acmicpc.net/problem/1584) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1584.cpp)
 | 31 | 1916 | [최소비용 구하기](https://www.acmicpc.net/problem/1916) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1916.cpp)
+| 32 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj1931.py)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> 37 문제</b></summary>
