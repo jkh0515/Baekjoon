@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 344문제
+## 📚 푼 문제 목록 - 345문제
 
 ___
  <details - open> 
@@ -267,7 +267,7 @@ ___
 
 ___
  <details - open> 
- <summary><b>Gold - 138 문제 </b></summary>
+ <summary><b>Gold - 139 문제 </b></summary>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> 32 문제</b></summary>
 
@@ -307,7 +307,7 @@ ___
 | 32 | 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj1931.py)
 </details>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> 37 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> 38 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -348,6 +348,7 @@ ___
 | 35 | 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | <img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1261.cpp)
 | 36 | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | <img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1043.cpp)
 | 37 | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | <img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj1197.py)
+| 38 | 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | <img src="https://static.solved.ac/tier_small/12.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj14500.py)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/13.svg" width="12px"/> 26 문제</b></summary>
