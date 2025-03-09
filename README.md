@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 345문제
+## 📚 푼 문제 목록 - 346문제
 
 ___
  <details - open> 
@@ -158,7 +158,7 @@ ___
 
 ___
  <details - open> 
- <summary><b>Silver - 74 문제 </b></summary>
+ <summary><b>Silver - 75 문제 </b></summary>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> 14 문제</b></summary>
 
@@ -226,7 +226,7 @@ ___
 | 15 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | <img src="https://static.solved.ac/tier_small/8.svg" width="12px"/> |[C99](https://github.com/jkh0515/Baekjoon/blob/main/code/C/bj1966.c)
 </details>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> 13 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> 14 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -243,6 +243,7 @@ ___
 | 11 | 11724 | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | <img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11724.cpp)
 | 12 | 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | <img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11722.cpp)
 | 13 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | <img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11053.cpp)
+| 14 | 18111 | [마인크래프트](https://www.acmicpc.net/problem/18111) | <img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> |[PyPy3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj18111.py)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> 13 문제</b></summary>
