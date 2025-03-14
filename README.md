@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 350문제
+## 📚 푼 문제 목록 - 351문제
 
 ___
  <details - open> 
@@ -269,7 +269,7 @@ ___
 
 ___
  <details - open> 
- <summary><b>Gold - 142 문제 </b></summary>
+ <summary><b>Gold - 143 문제 </b></summary>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/11.svg" width="12px"/> 34 문제</b></summary>
 
@@ -387,7 +387,7 @@ ___
 | 26 | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | <img src="https://static.solved.ac/tier_small/13.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1005.cpp)
 </details>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> 28 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> 29 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -419,6 +419,7 @@ ___
 | 26 | 1486 | [등산](https://www.acmicpc.net/problem/1486) | <img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1486.cpp)
 | 27 | 1103 | [게임](https://www.acmicpc.net/problem/1103) | <img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj1103.cpp)
 | 28 | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | <img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj1167.py)
+| 29 | 13334 | [철로](https://www.acmicpc.net/problem/13334) | <img src="https://static.solved.ac/tier_small/14.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj13334.cpp)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/15.svg" width="12px"/> 16 문제</b></summary>
