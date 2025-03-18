@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 353문제
+## 📚 푼 문제 목록 - 354문제
 
 ___
  <details - open> 
@@ -158,7 +158,7 @@ ___
 
 ___
  <details - open> 
- <summary><b>Silver - 76 문제 </b></summary>
+ <summary><b>Silver - 77 문제 </b></summary>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> 14 문제</b></summary>
 
@@ -247,7 +247,7 @@ ___
 | 15 | 21736 | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | <img src="https://static.solved.ac/tier_small/9.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj21736.py)
 </details>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> 13 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> 14 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -264,6 +264,7 @@ ___
 | 11 | 10166 | [관중석](https://www.acmicpc.net/problem/10166) | <img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj10166.cpp)
 | 12 | 11286 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | <img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11286.cpp)
 | 13 | 11497 | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) | <img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11497.cpp)
+| 14 | 14940 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | <img src="https://static.solved.ac/tier_small/10.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj14940.py)
 </details>
 </details>
 
