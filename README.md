@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 354문제
+## 📚 푼 문제 목록 - 355문제
 
 ___
  <details - open> 
@@ -158,7 +158,7 @@ ___
 
 ___
  <details - open> 
- <summary><b>Silver - 77 문제 </b></summary>
+ <summary><b>Silver - 78 문제 </b></summary>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> 14 문제</b></summary>
 
@@ -180,7 +180,7 @@ ___
 | 14 | 16435 | [스네이크버드](https://www.acmicpc.net/problem/16435) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[C99](https://github.com/jkh0515/Baekjoon/blob/main/code/C/bj16435.c)
 </details>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> 19 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> 20 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -202,7 +202,8 @@ ___
 | 16 | 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11866.cpp)
 | 17 | 15736 | [청기 백기](https://www.acmicpc.net/problem/15736) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj15736.cpp)
 | 18 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj17219.cpp)
-| 19 | 18110 | [solved.ac](https://www.acmicpc.net/problem/18110) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[PyPy3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj18110.py)
+| 19 | 17262 | [팬덤이 넘쳐흘러](https://www.acmicpc.net/problem/17262) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj17262.cpp)
+| 20 | 18110 | [solved.ac](https://www.acmicpc.net/problem/18110) | <img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> |[PyPy3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj18110.py)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/8.svg" width="12px"/> 15 문제</b></summary>
