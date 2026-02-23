@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 355문제
+## 📚 푼 문제 목록 - 356문제
 
 ___
  <details - open> 
@@ -158,9 +158,9 @@ ___
 
 ___
  <details - open> 
- <summary><b>Silver - 78 문제 </b></summary>
+ <summary><b>Silver - 79 문제 </b></summary>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> 14 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> 15 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -178,6 +178,7 @@ ___
 | 12 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11650.cpp)
 | 13 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj11651.cpp)
 | 14 | 16435 | [스네이크버드](https://www.acmicpc.net/problem/16435) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[C99](https://github.com/jkh0515/Baekjoon/blob/main/code/C/bj16435.c)
+| 15 | 32403 | [전구 주기 맞추기](https://www.acmicpc.net/problem/32403) | <img src="https://static.solved.ac/tier_small/6.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj32403.cpp)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/7.svg" width="12px"/> 20 문제</b></summary>
