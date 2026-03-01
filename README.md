@@ -1,4 +1,4 @@
-## 📚 푼 문제 목록 - 356문제
+## 📚 푼 문제 목록 - 357문제
 
 ___
  <details - open> 
@@ -20,9 +20,9 @@ ___
 
 ___
  <details - open> 
- <summary><b>Bronze - 103 문제 </b></summary>
+ <summary><b>Bronze - 104 문제 </b></summary>
 <details>
-<summary><b><img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> 39 문제</b></summary>
+<summary><b><img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> 40 문제</b></summary>
 
 |  번호  | 문제 번호 | 문제 제목 |  난이도 | 풀이 링크 |
 | :---: | ------- | ------- | :----: | :------------: |
@@ -64,7 +64,8 @@ ___
 | 36 | 15964 | [이상한 기호](https://www.acmicpc.net/problem/15964) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj15964.cpp)
 | 37 | 18108 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj18108.py)
 | 38 | 25083 | [새싹](https://www.acmicpc.net/problem/25083) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[Python 3](https://github.com/jkh0515/Baekjoon/blob/main/code/Python/bj25083.py)
-| 39 | 27866 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj27866.cpp)
+| 39 | 27433 | [팩토리얼 2](https://www.acmicpc.net/problem/27433) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj27433.cpp)
+| 40 | 27866 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | <img src="https://static.solved.ac/tier_small/1.svg" width="12px"/> |[C++17](https://github.com/jkh0515/Baekjoon/blob/main/code/C++/bj27866.cpp)
 </details>
 <details>
 <summary><b><img src="https://static.solved.ac/tier_small/2.svg" width="12px"/> 15 문제</b></summary>
